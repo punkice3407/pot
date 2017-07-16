@@ -1,6 +1,7 @@
 {
   "name": "luquinhasbrito/otserver",
   "description": "POT class",
+  "license": "MIT",
   "authors": [
     {
       "name": "Luquinhas Brito",
@@ -8,6 +9,12 @@
     }
   ],
   "require": {
-    "php": ">=5.3.0"
+    "php": ">=5.3.0",
+    "luquinhasbrito/otserver": "dev-master"
+  },
+  "autoload": {
+    "psr-0": {
+      "otserver": "src"
+    }  
   }
 }
