@@ -1,5 +1,5 @@
 {
-  "name": "luquinhasbrito/pot",
+  "name": "luquinhasbrito/otserver",
   "description": "POT class",
   "authors": [
     {
@@ -9,6 +9,6 @@
   ],
   "require": {
     "php": ">=5.3.0",
-    "luquinhasbrito/pot": "*"
+    "luquinhasbrito/otserver": "*"
   }
 }
