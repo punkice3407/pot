@@ -1,0 +1,14 @@
+{
+  "name": "luquinhasbrito/pot",
+  "description": "POT class",
+  "authors": [
+    {
+      "name": "Luquinhas Brito",
+      "email": "luquinhasbritogba@hotmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0",
+    "luquinhasbrito/pot": "*"
+  }
+}
