@@ -1,5 +1,5 @@
 {
-  "name": "otserver/pot",
+  "name": "luquinhasbrito/pot",
   "description": "POT Class",
   "license": "Web Desgin Technologies",
   "authors": [
@@ -10,10 +10,10 @@
     ],  
     "require": {
         "php": "^5.3.3 || ^7.0",
-        "otserver/pot": "0.1.5"
+        "luquinhasbrito/pot": "0.1.5"
     },
     "autoload": {
-      "psr-0": { "Otserver\\Pot\\": "src/" }
+      "psr-0": { "Luquinhasbrito\\Pot\\": "src/" }
     },
     "minimum-stability": "dev",
     "bin": ["src/OTS.php"]
