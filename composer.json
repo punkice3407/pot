@@ -15,5 +15,6 @@
     "autoload": {
       "psr-0": { "otserver": "src/" }
     },
+    "minimum-stability": "dev",
     "bin": ["src/OTS.php"]
 }
