@@ -1,7 +1,7 @@
 {
   "name": "otserver/pot",
   "description": "POT Class",
-  "lisence": "Web Desgin Technologies",
+  "license": "Web Desgin Technologies",
   "authors": [
       {
         "name": "Luquinhas Brito",
@@ -11,5 +11,8 @@
     "require": {
         "php": "^5.3.3 || ^7.0",
         "otserver/pot": "0.1.5"
-    }
+    },
+    "autoload": {
+      "psr-0": { "otserver": "src/" }
+    }  
 }
