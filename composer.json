@@ -1,20 +1,14 @@
 {
-  "name": "luquinhasbrito/otserver",
-  "description": "POT class",
-  "license": "MIT",
+  "name": "otserver/pot",
+  "description": "POT Class",
   "authors": [
-    {
-      "name": "Luquinhas Brito",
-      "email": "luquinhasbritogba@hotmail.com"
+      {
+        "name": "Luquinhas Brito",
+        "email": "luquinhasbritogba@hotmail.com"
+      }
+    ],  
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "otserver/pot": "0.1.5"
     }
-  ],
-  "require": {
-    "php": ">=5.3.0",
-    "luquinhasbrito/otserver": "dev-master"
-  },
-  "autoload": {
-    "psr-0": {
-      "otserver": "src"
-    }  
-  }
 }
