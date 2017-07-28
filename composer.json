@@ -16,5 +16,6 @@
       "psr-0": { "Luquinhasbrito\\Pot\\": "src/" }
     },
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "bin": ["src/OTS.php"]
 }
