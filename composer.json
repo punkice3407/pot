@@ -15,5 +15,5 @@
     "autoload": {
       "psr-0": { "otserver": "src/" }
     },
-    "bin": ["src/pot.php"]
+    "bin": ["src/OTS.php"]
 }
